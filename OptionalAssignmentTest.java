@@ -1,9 +1,11 @@
 
 public class OptionalAssignmentTest {
 	
+	public GraphAdjMatrix adjMat;
 	
 	public OptionalAssignmentTest() {
 		// TODO: Need to create an instance?
+		
 	}
 	
 
